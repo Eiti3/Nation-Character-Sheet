@@ -1,0 +1,219 @@
+# <center>Nation "Character" Sheet</center>
+
+___
+###
+
+#### Nation Name Here
+
+___
+> ## Government Here
+>___
+>|MIL|ECO|CUL|TEC|ESP|DIP|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|?|?|?|?|?|?|
+>|(+?)|(+?)|(+?)|(+?)|(+?)|(+?)|
+
+##### Proficiencies
+- History: 
+- Focus: 
+
+##### Modifier Bonuses
+- +? (Lord's Proficiency)
+- +? (Lord's Proficiency)
+
+###  Current Resources
+- 
+
+### Current Population
+##### ???,??? total
+- ???,??? (??%) Race
+- ??,??? (??%) Race
+- ??,??? (??%) Race
+<br> - Terrain1: ?,??? (?? hex)
+<br> - Terrain1 Edges: ?? (? hex)
+<br> - Terrain2: ???,??? (?? hex)
+<br> - Terrain2 Edges: ??,??? (?? hex)
+<br>**Growth Modifiers**
+- ?% Growth
+- ?% Decay
+<br>**Civilian Stability**
+- ??/100 (State)
+
+\columnbreak
+
+### 
+
+### Current Research
+##### (Tech's Name)
+- 0/?? XP
+- ? XP per Week
+
+### Current Agents
+##### (Agent's name)
+- Goal: (goal)
+<br> 0/??
+
+### Current Affairs
+- Embessies:
+<br> - (Nations with your embessies here)
+- Alliances & Coalitions:
+<br> - (Alliances here)
+- Wars:
+<br> - (Wars here)
+- Trade Agreements:
+<br> - 
+- Tech Coops:
+<br> - 
+
+### Current Military
+- 0 Generals:
+<br> - (This is where a general name would go)
+- ? Units
+
+### Current Production
+##### (Production name)
+- 0/?? Complete
+- +0/7 Production Speed
+- ???% Produced Items, Units, Buildings, and Artworks
+
+### Current Tourism
+##### ?
+- ???? additional GP per week
+- ???? Adventurers gained per week
+- 0/?? Adventurer Incentives
+
+
+\pagebreak
+
+
+### Pre-Game Choices
+
+<div class='descriptive'>
+
+##### Economy (Focus)
+- (At least 100,000 GP)
+- ? Common Resources
+<br>&nbsp;&nbsp;&nbsp; ???
+
+</div>
+
+<div class='descriptive'>
+
+##### Culture
+- (Nation age)
+- ? Natural Wonders
+<br> - 
+- ? Grand Structure
+<br> - 
+
+</div>
+
+<div class='descriptive'>
+
+##### Technology
+- (Scientific Tech)
+- (Magical Tech)
+
+</div>
+
+<div class='descriptive'>
+
+##### Espionage
+- 
+
+</div>
+
+<div class='descriptive'>
+
+##### Diplomacy
+- 
+- ? Trade Agreements
+<br> - Exporting XXX Resources/Importing XXX Resources
+
+</div>
+
+<div class='descriptive'>
+
+##### Military
+- X Units
+
+</div>
+
+\columnbreak
+
+### Followers
+
+##### Military
+- Name, Race
+- Level ? Class
+- Oversees ?/? Generals
+<br> - General Name
+
+##### Economy
+- Name, Race
+- Level ? Class
+- Oversees ?/? Traders
+<br> - Trader Name
+
+##### Culture
+- Name, Race
+- Level ? Class
+- Oversees ?/? Censors
+<br> - Censor Name
+
+##### Technology
+- Name, Race
+- Level ? Class
+- Oversees ?/? Scientists
+<br> - Scientist Name
+
+##### Espionage
+- Name, Race
+- Level ? Class
+- Oversees ?/? Agents
+<br> - Agent Name
+
+##### Diplomacy
+- Name, Race
+- Level ? Class
+- Oversees ?/? Diplomats
+<br> - Diplomat Name
+
+### Lord of (Nation Name)
+
+##### (Lord Name)
+Level ? Class Race
+
+- 5 Lord Options Here
+
+
+\pagebreak
+
+
+### Background
+
+General info of Nation.
+
+### Culture
+
+How your Nation is.
+
+### Traditions
+
+National Traditions
+
+### Respects
+- 
+
+### Disrespects
+- 
+
+### Royal Succession
+
+Gotta have one. Cause death.
+
+### Theme
+
+Anything to remind you, or keep a general theme on your nation.
+
+And feel free to add more pages with `\pagebreak` and add more about your natural wonders, grand structures, additional lore, & more.
